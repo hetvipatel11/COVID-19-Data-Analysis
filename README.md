@@ -14,7 +14,9 @@
 ######
 1)Loaded global data from JHU repository
 Imported the csv file of confirmed and active cases in order to abstract the data for the graph using the following link:
+######
 confirmed = ‘https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv'
+######
 active = ‘https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_active_global.csv'
 ###### 
 2) Declared function covidData to extract data for specific countries
