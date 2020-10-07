@@ -3,8 +3,11 @@
 # Libraries
 ###### 
 · Covid- Python package to get information regarding the novel corona virus provided by Johns Hopkins university and worldometers.info
+###### 
 · Matplotlib- Python packages used for data visualization.
+###### 
 · NumPy- Python library used to maintain the data in the matrices format.
+###### 
 · Pandas- It is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 
 # Graph Analysis
