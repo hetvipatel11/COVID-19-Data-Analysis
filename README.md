@@ -10,6 +10,20 @@
 ###### 
 · Pandas- It is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 
+# Data Visulization
+Data of covid is imported from the JHU reporistory.
+######
+It diplays the following data for overall and for particular country:
+######
+1) Total confrimed cases
+######
+2) Total active cases
+######
+3) Total death cases
+######
+4) Total recovered cases
+
+
 # Graph Analysis
 ######
 1)Loaded global data from JHU repository
