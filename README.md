@@ -1,12 +1,13 @@
 # COVID-19-Data-Analysis
-#Libraries
-######· Covid- Python package to get information regarding the novel corona virus provided by Johns Hopkins university and worldometers.info
+
+# Libraries
+###### · Covid- Python package to get information regarding the novel corona virus provided by Johns Hopkins university and worldometers.info
 · Matplotlib- Python packages used for data visualization.
 · NumPy- Python library used to maintain the data in the matrices format.
 · Pandas- It is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 
-#Graph Analysis
-######Loaded global data from JHU repository
+# Graph Analysis
+###### Loaded global data from JHU repository
 Imported the csv file of confirmed and active cases in order to abstract the data for the graph using the following link:
 confirmed = ‘https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv'
 active = ‘https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_active_global.csv'
